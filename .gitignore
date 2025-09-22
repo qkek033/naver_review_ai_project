@@ -1,0 +1,32 @@
+# Git ignore file 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+env/
+venv/
+.venv/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data / secrets (절대 업로드 금지)
+*.csv
+.env
+secrets.json
+credentials.json
+
+# Large bundles
+dist/
+build/
