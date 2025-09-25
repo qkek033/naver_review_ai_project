@@ -1,5 +1,3 @@
-
-# naver_review_ai_project
 # 네이버 스토어 리뷰 요약 & 감성분석
 
 ## 프로젝트 개요
